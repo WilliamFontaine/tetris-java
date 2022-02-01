@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26e00907-5dcd-4c1c-b389-3ad514f1b6f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/Tetris_JavaFX.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/Base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/BaseOptLead.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/BasePause.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/Confirmation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/Controls.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/GameOver.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/Grille.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/LeaderBoard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/Menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/Options.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/Pause.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/fxml/main.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/persistance/Controls.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/persistance/Leaderboard.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/Base.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/BaseOptLead.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/BasePause.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/Confirmation.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/Controls.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/GameOver.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/Grille.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/LeaderBoard.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/Menu.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/Options.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/res/views/Pause.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/Notifiyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/BaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/BaseOptLeadController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/BasePauseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/Base_Mother.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/ConfirmationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/ControlsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/GameOverController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/GrilleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/LeaderBoardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/OptionsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/PauseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/controllers/RootController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/dessinateurs/Dessinateur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/dessinateurs/DessinateurBasique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/L_Confirmation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/L_Controls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/L_GameOver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/L_Grille.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/L_Leaderboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/L_Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/L_Options.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/L_Pause.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/loaders/Loader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/observateurs/ObservateurAbstrait.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/app/observateurs/ObservateurGrille.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/Partie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/enums/EtatRotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/enums/MoveType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/enums/PieceType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/grille/ControlesGrille.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/grille/ControlesPiece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/grille/Grille.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/grille/GrilleBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/PieceBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/PieceCarree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/PieceI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/PieceLDroite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/PieceLGauche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/PieceSDroite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/PieceSGauche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/PieceT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/Verifyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/deplaceur/DeplaceurBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/point/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/point/PointBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/tourneur/TourneurBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/tourneur/TourneurCarre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/tourneur/TourneurI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/tourneur/TourneurLDroite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/tourneur/TourneurLGauche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/tourneur/TourneurSDroite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/tourneur/TourneurSGauche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/pieces/tourneur/TourneurT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/thread/CustomThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/content/thread/Play.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/paramètres/Controles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/paramètres/Difficulte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet JavaFX/src/classes/paramètres/Leaderboard.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/classes/content/enums/PieceType.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/content/Partie.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/content/pieces/PieceBase.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/LeaderBoardController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/BaseController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/MenuController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/BasePauseController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/ControlsController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/GameOverController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/GrilleController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/ConfirmationController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/OptionsController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/app/controllers/BaseOptLeadController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tetris_JavaFX.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/classes/content/grille/Grille.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="23VxwoAwogjskI5vLtoy7tu5wFn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Tetris_JavaFX" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;$PATH_JAVAFX$&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="partie" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="classes.content.Partie" />
+      <module name="Tetris_JavaFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.partie" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26e00907-5dcd-4c1c-b389-3ad514f1b6f5" name="Changes" comment="" />
+      <created>1641833304865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641833304865</updated>
+      <workItem from="1641833313074" duration="4769000" />
+      <workItem from="1642432601105" duration="46000" />
+      <workItem from="1643654900292" duration="27000" />
+      <workItem from="1643727587658" duration="404000" />
+      <workItem from="1643728227685" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="classes.content.grille.Grille" memberName="grille" />
+        <PinnedItemInfo parentTag="classes.content.enums.PieceType" memberName="name" />
+        <PinnedItemInfo parentTag="javafx.scene.canvas.Canvas" memberName="styleClass" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tetris_JavaFX_iml$partie.ic" NAME="partie Coverage Results" MODIFIED="1640103012925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Tetris_JavaFX_iml$main.ic" NAME="main Coverage Results" MODIFIED="1642162999983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
