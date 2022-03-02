@@ -2,7 +2,7 @@ package classes.app.controllers;
 
 import classes.app.loaders.Loader;
 import classes.content.Partie;
-import classes.paramètres.Difficulte;
+import classes.parametres.Difficulte;
 import javafx.event.ActionEvent;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;

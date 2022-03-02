@@ -7,22 +7,18 @@ import java.net.URL;
 import static java.util.Objects.requireNonNull;
 
 public class Controles implements Serializable {
-    private String depdroite;
-    private String depgauche;
-    private String rotdroite;
-    private String rotgauche;
-    private String acceleration;
-
-    public Controles() {
-        initialiser();
-    }
+    private static String depdroite;
+    private static String depgauche;
+    private static String rotdroite;
+    private static String rotgauche;
+    private static String acceleration;
 
     public String getDepdroite() {
         return depdroite;
     }
 
     public void setDepdroite(String depdroite) {
-        this.depdroite = depdroite;
+        Controles.depdroite = depdroite;
     }
 
     public String getDepgauche() {
@@ -30,7 +26,7 @@ public class Controles implements Serializable {
     }
 
     public void setDepgauche(String depgauche) {
-        this.depgauche = depgauche;
+        Controles.depgauche = depgauche;
     }
 
     public String getRotdroite() {
@@ -38,7 +34,7 @@ public class Controles implements Serializable {
     }
 
     public void setRotdroite(String rotdroite) {
-        this.rotdroite = rotdroite;
+        Controles.rotdroite = rotdroite;
     }
 
     public String getRotgauche() {
@@ -46,7 +42,7 @@ public class Controles implements Serializable {
     }
 
     public void setRotgauche(String rotgauche) {
-        this.rotgauche = rotgauche;
+        Controles.rotgauche = rotgauche;
     }
 
     public String getAcceleration() {
@@ -54,7 +50,7 @@ public class Controles implements Serializable {
     }
 
     public void setAcceleration(String acceleration) {
-        this.acceleration = acceleration;
+        Controles.acceleration = acceleration;
     }
 
     private void setDefault() {

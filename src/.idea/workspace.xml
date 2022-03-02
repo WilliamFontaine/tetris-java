@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e00907-5dcd-4c1c-b389-3ad514f1b6f5" name="Changes" comment="" />
+    <list default="true" id="26e00907-5dcd-4c1c-b389-3ad514f1b6f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/parametres/Controles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/parametres/Difficulte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classes/parametres/Leaderboard.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +101,10 @@
       <workItem from="1643727587658" duration="404000" />
       <workItem from="1643728227685" duration="35000" />
       <workItem from="1643728914330" duration="33000" />
+      <workItem from="1645465152258" duration="82000" />
+      <workItem from="1645465508081" duration="593000" />
+      <workItem from="1646212335994" duration="26000" />
+      <workItem from="1646212463886" duration="22000" />
     </task>
     <servers />
   </component>
@@ -113,6 +122,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>

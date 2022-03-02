@@ -4,7 +4,7 @@ import classes.app.Notifiyer;
 import classes.app.observateurs.ObservateurAbstrait;
 import classes.app.observateurs.ObservateurGrille;
 import classes.content.thread.Play;
-import classes.paramètres.Leaderboard;
+import classes.parametres.Leaderboard;
 
 import java.util.LinkedList;
 import java.util.List;

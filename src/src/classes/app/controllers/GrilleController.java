@@ -3,7 +3,7 @@ package classes.app.controllers;
 import classes.app.loaders.Loader;
 import classes.content.Partie;
 import classes.content.enums.MoveType;
-import classes.paramètres.Controles;
+import classes.parametres.Controles;
 import javafx.application.Platform;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.control.Label;

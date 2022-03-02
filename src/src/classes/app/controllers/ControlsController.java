@@ -1,7 +1,7 @@
 package classes.app.controllers;
 
 import classes.app.loaders.Loader;
-import classes.paramètres.Controles;
+import classes.parametres.Controles;
 import javafx.event.ActionEvent;
 import javafx.scene.control.Button;
 import javafx.scene.input.KeyEvent;

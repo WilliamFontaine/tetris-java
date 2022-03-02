@@ -52,6 +52,7 @@ public class Leaderboard implements Serializable {
                     scoreCharge = (Integer) reader.readObject();
                 }
             } catch (EOFException ex) {
+                System.out.println("Fichier terminé");
             }
 
         } catch (FileNotFoundException e) {
